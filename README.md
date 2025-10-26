@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krushnaaaa
-- 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning AIML
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for job ...
 - 📫 bagulkrushna111@gmail.com 
 
 <!---
